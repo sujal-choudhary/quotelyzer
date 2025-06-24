@@ -107,14 +107,5 @@ This project is licensed under the **MIT License** – feel free to use, modify,
 python  web-scraping  jupyter-notebook  pandas  beautifulsoup  data-analysis  quotes
 ```
 
-```
 
----
 
-Let me know if you’d like:
-- A `quote.ipynb` template file
-- GitHub Pages site from this repo
-- A badge for launching it on Google Colab
-
-You're all set to push this publicly to GitHub. 🚀
-```
