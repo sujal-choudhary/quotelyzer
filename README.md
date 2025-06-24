@@ -88,6 +88,7 @@ This project scrapes data from [quotes.toscrape.com](https://quotes.toscrape.com
 ## 👨‍💻 Author
 
 **Sujal Choudhary**
+
 Student | Full Stack Developer | Python & AI Enthusiast
 
 
